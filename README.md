@@ -1,6 +1,6 @@
 
 
-# Hi there 👋<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+Hi there 👋I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> </p>
 
 ### 👨‍💻 About Me
 I am a dedicated and results-driven **MERN Stack Developer** with a focus on building scalable, high-performance, and user-centric web applications. I specialize in crafting seamless frontend experiences with **React** and **Next.js**, backed by robust and efficient server-side logic using **Node.js** and **Express**. I am deeply passionate about clean architecture, optimized code, and staying ahead of the curve with modern web technologies. 
