@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> </p>
+
+# Hi there 👋<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> </p>
 
 ### 👨‍💻 About Me
 I am a dedicated and results-driven **MERN Stack Developer** with a focus on building scalable, high-performance, and user-centric web applications. I specialize in crafting seamless frontend experiences with **React** and **Next.js**, backed by robust and efficient server-side logic using **Node.js** and **Express**. I am deeply passionate about clean architecture, optimized code, and staying ahead of the curve with modern web technologies. 
@@ -26,17 +26,12 @@ With a strong problem-solving mindset, I enjoy turning complex challenges into s
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifadhossainrabbi&show_icons=true&theme=tokyonight&count_private=true" alt="Rifad's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifadhossainrabbi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [আপনার লিঙ্কডইন ইউআরএল]
-- **Email:** [আপনার ইমেইল অ্যাড্রেস]
-- **Portfolio:** [আপনার পোর্টফোলিও ওয়েবসাইট লিঙ্ক]
+- **LinkedIn:** www.linkedin.com/in/rifad-hossain-rabbi-6b51443b6
+- **Email:** hossainmrrifad@gmail.com
+- **Portfolio:** (https://my-portfolio-website-react-beryl.vercel.app/)
 
 <p align="center"> <b>"Code is like humor. When you have to explain it, it’s bad."</b> </p>
