@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rifad+Hossain+Rabbi;A+Passionate+MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" /> 
 </p>
 
 ### 👨‍💻 About Me
